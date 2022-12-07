@@ -10,7 +10,6 @@ let interval = setInterval(run, 4000)
 
 function run() {
     idx++
-
     changeImage()
 }
 
@@ -41,3 +40,4 @@ rightBtn.addEventListener("click", () => {
     changeImage()
     resetInterval()
 })
+

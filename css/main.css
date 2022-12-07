@@ -50,7 +50,8 @@ img {
 }
 
 .btn:hover {
-    opacity: 0.9;
+    opacity: 0.5;
+    background-color: rgb(44, 49, 47);
 }
 .btn:focus {
     outline: none;
